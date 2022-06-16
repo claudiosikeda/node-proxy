@@ -1,0 +1,14 @@
+{
+  "name": "node-proxy",
+  "version": "0.0.1",
+  "description": "CORS :(",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Ikeda",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
